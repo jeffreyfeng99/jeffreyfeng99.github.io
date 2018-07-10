@@ -1,0 +1,40 @@
+# Site settings
+title: Jeffrey's First Website
+description: >
+  Jeff's first attempt at a website!
+baseurl: 
+# url: "https://jeffreyfeng99.github.io"
+twitter_username:
+github_username:  jeffreyfeng99
+
+permalink: 
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+
+
+collections:
+  _photos:
+    output: true  
+  _solidworks:
+    output: true
+  _design:
+    output: true
+  _labs:
+    output: true
+  _machineLearning:
+    output: true
+  _modules:
+    output: true
+  _portfolio:
+    output: true
+
+
+markdown: kramdown
+
+keep_files: [assets]
+exclude:
+  - Gemfile
+  - Gemfile.lock
