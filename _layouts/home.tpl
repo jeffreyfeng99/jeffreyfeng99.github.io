@@ -6,7 +6,7 @@ layout: default
     <div id="particles-js">
         <div class="home-center">
             <div class="home-centered">
-                <h1>{{page.name_txt}}</h1>
+                <h1>{{page.name_txt}} Test</h1>
                 <ul>
                     {% for item in page.media_list %}
                     <li><a href="{{item.link_txt}}"><img src="{{item.img_txt}}"></a></li>
