@@ -2,7 +2,7 @@
 layout: home
 title: Home 
 heading: home
-permalink: jeffreyfeng99.github.io
+permalink: /
 published: true
 
 name_txt: "Jeffrey Feng"
