@@ -2,7 +2,7 @@
 title: Jeffrey's First Website
 description: >
   Jeff's first attempt at a website!
-baseurl: 
+baseurl: "/"
 url: "https://jeffreyfeng99.github.io"
 twitter_username:
 github_username:  jeffreyfeng99
