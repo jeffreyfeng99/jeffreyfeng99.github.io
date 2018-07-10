@@ -14,8 +14,8 @@ imageLeft_list:
     description_txt: "Facing North"
 
 imageRight_list:
-  - img_txt: "/assets/images/IMG_3523.JPG"
-    description_txt: "Towards Rogers Arena (East)"
+  # - img_txt: "/assets/images/IMG_3523.JPG"
+  #   description_txt: "Towards Rogers Arena (East)"
   - img_txt: "/assets/images/IMG_3525.JPG"
     description_txt: "Towards the Inlet (Southeast)"
 
