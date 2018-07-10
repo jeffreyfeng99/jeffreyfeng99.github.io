@@ -10,7 +10,7 @@ subtitle_txt: "All Inclusive Pictures of Winter Snow"
 imageLeft_list:
   - img_txt: "/assets/images/IMG_3573.JPG"
     description_txt: "Mount Seymour Sunset"
-  - img_txt: "/assets/images/20171230_142222.JPG"
+  - img_txt: "/assets/images/20171230_142222.jpg"
     description_txt: "Mount Seymour - Untouched Snow"
   - img_txt: "/assets/images/IMG_3353.gif"
     description_txt: "Pinetree Secondary - First Snow of the Season"

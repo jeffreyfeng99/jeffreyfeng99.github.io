@@ -37,7 +37,7 @@ imageRight_list:
     description_txt: "Calm Waters"
   - img_txt: "/assets/images/P1010227.JPG"
     description_txt: "Relaxation"
-  - img_txt: "/assets/images/DSC_0988.JPG"
+  - img_txt: "/assets/images/DSC_0988.jpg"
     description_txt: "Swimming"
   - img_txt: "/assets/images/P1010453.JPG"
     description_txt: "Kayaking"

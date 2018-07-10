@@ -30,7 +30,7 @@ imageRight_list:
     description_txt: "Prepping the Camera"
   - img_txt: "/assets/images/P512027520160512_170454 (2).jpg"
     description_txt: "Dark Hues and Lighting"
-  - img_txt: "/assets/images/P512031420160512_174252.jpg"
+  - img_txt: "/assets/images/P512031420160512_174252.JPG"
     description_txt: "Pastel Pink"
   - img_txt: "/assets/images/P512009220160512_155529.jpg"
     description_txt: "White - Closeup"
