@@ -9,35 +9,35 @@ subtitle_txt: "University of Michigan Program"
 
 
 imageLeft_list:
-  # - img_txt: "/assets/images/IMG_4764.jpg"
+  # - img_txt: "/assets/images/IMG_4764.JPG"
   #   description_txt: "View from Residence"
-  # - img_txt: "/assets/images/IMG_4766.jpg"
+  # - img_txt: "/assets/images/IMG_4766.JPG"
   #   description_txt: "View from Main Hall"
-  # - img_txt: "/assets/images/IMG_4770.jpg"
+  # - img_txt: "/assets/images/IMG_4770.JPG"
   #   description_txt: "View of Main Hall"
-  - img_txt: "/assets/images/IMG_4772.jpg"
+  - img_txt: "/assets/images/IMG_4772.JPG"
     description_txt: "View of Main Hall From Overpass"
-  # - img_txt: "/assets/images/IMG_4774.jpg"
+  # - img_txt: "/assets/images/IMG_4774.JPG"
   #   description_txt: "View from the Overpass"
-  # - img_txt: "/assets/images/IMG_4794.jpg"
+  # - img_txt: "/assets/images/IMG_4794.JPG"
   #   description_txt: "Library and the Lucky M"
-  - img_txt: "/assets/images/IMG_4866.jpg"
+  - img_txt: "/assets/images/IMG_4866.JPG"
     description_txt: "Biomedical Sciences Research Building and Auditorium"
-  - img_txt: "/assets/images/IMG_7515.jpg"
+  - img_txt: "/assets/images/IMG_7515.JPG"
     description_txt: "Medical Center"
 
 
 
 imageRight_list:
-  - img_txt: "/assets/images/IMG_4855.jpg"
+  - img_txt: "/assets/images/IMG_4855.JPG"
     description_txt: "Hill Auditorium"
-  - img_txt: "/assets/images/IMG_4810.jpg"
+  - img_txt: "/assets/images/IMG_4810.JPG"
     description_txt: "Law Library"
-  - img_txt: "/assets/images/IMG_5841.jpg"
+  - img_txt: "/assets/images/IMG_5841.JPG"
     description_txt: "Law School"
-  # - img_txt: "/assets/images/IMG_4870.jpg"
+  # - img_txt: "/assets/images/IMG_4870.JPG"
   #   description_txt: "Lasers"
-  # - img_txt: "/assets/images/IMG_4920.jpg"
+  # - img_txt: "/assets/images/IMG_4920.JPG"
   #   description_txt: "Lasers"
 
 

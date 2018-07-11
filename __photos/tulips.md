@@ -8,7 +8,7 @@ date_txt: "Summer 2017"
 subtitle_txt: "Abbotsford Tulip Festival"
 
 imageLeft_list:
-  - img_txt: "/assets/images/P5120295.jpg"
+  - img_txt: "/assets/images/P5120295.JPG"
     description_txt: "My Favourite Photo"
   - img_txt: "/assets/images/P512011420160512_160040.jpg"
     description_txt: "Closeup - Dark Purple"
@@ -26,15 +26,15 @@ imageLeft_list:
 imageRight_list:
   - img_txt: "/assets/images/P512030120160512_173607.jpg"
     description_txt: "Pastel Colours"
-  - img_txt: "/assets/images/IMG_4394.jpg"
+  - img_txt: "/assets/images/IMG_4394.JPG"
     description_txt: "Prepping the Camera"
   # - img_txt: "/assets/images/P512027520160512_170454 (2).jpg"
   #   description_txt: "Dark Hues and Lighting"
-  # - img_txt: "/assets/images/P512031420160512_174252.jpg"
+  # - img_txt: "/assets/images/P512031420160512_174252.JPG"
   #   description_txt: "Pastel Pink"
   # - img_txt: "/assets/images/P512009220160512_155529.jpg"
   #   description_txt: "White - Closeup"
-  - img_txt: "/assets/images/HMKR1326.jpg"
+  - img_txt: "/assets/images/HMKR1326.JPG"
     description_txt: "Blending In"
 
 
