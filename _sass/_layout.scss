@@ -648,18 +648,20 @@ h1, h2, h4, h5, h6 {
     
   
   }
+
+
   
   .resume-button button:hover {
-      border-bottom: 5px solid cadetblue;
-      color: #bbbbbb;
+      border-bottom: 2px solid cadetblue;
+      cursor: pointer; 
   }
   
   .resume-button button:active{
-      border-bottom: 5px solid cadetblue;
+      border-bottom: 2px solid cadetblue;
   }
   
   .resume-button button:focus{
-      border-bottom: 5px solid cadetblue;
+      border-bottom: 2px solid cadetblue;
   }
   
   .section-title p {

@@ -19,7 +19,13 @@ media_list:
         title_txt: "j64feng@edu.uwaterloo.ca"
 
 description_txt: >-
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  As an emerging undergraduate student and biomedical engineer, Jeffrey finds himself discovering many different interests in various fields. His current interest revolves around imaging, as he studies ahead on Pattern Recognition and Imaging Analysis in hopes of attaining a future co-op position in a related role.
+  
+
+  Meanwhile, he maintains interest in Artificial Intelligence and space exploration. In his freetime, he can be seen playing around on Leetcode, cooking traditional Chinese meals, practicing guitar in leue of his saxophone that he was unable to transport over, attempting to improve his SolidWorks skils, exploring both website and game development, and creating plans for his future smart home. 
+  
+
+  His favourite sport is soccer, and does his best to play it, or at least exercise on a regular basis. After all for someone who is heading towards the path of improving healthcare, it would be rather hypocritical to dismiss the requirements of his own health.
 
 ---
 

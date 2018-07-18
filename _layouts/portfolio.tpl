@@ -5,7 +5,7 @@ layout: default
 
             
 <main class="fade-out">
-<div class="data-tab">
+<div id="tabNavHref" class="data-tab">
     <div class = "container">
         <ul class="nav nav-tabs">
             {% for item in page.content_list %}
@@ -56,7 +56,7 @@ layout: default
                                             {{file.subtitle_txt}}
                                         </div>
                                         <div class="button-height">
-                                        <button type="button" data-target="#{{item.modalId_txt}}" data-toggle="modal" data-slide-to=count class="btn btn-primary arrow-right-white partners-read-more">Photos</button>
+                                        <button type="button" data-target="#{{item.modalId_txt}}" data-toggle="modal" data-slide-to="{{count}}" class="btn btn-primary arrow-right-white partners-read-more">Photos</button>
                                         </div>
                                     </div>
                                 </div>
