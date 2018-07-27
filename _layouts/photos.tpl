@@ -60,22 +60,22 @@ layout: default
                                     <div class="row">
                                     
                                     
-                                    <div class="col-lg-6">
+                                    <div class="col-lg-6 image-col">
                                             
                                                 <div >{% for image in item.imageLeft_list %}<div class="image">
-                                                    {% assign height = image.height_txt | append: "px"%}
-                                        <img src="{{image.img_txt}}" width="393"><div class="overlay" style="height:height">
+                                                    {%comment%}{% assign height = image.height_txt | append: "px"%}{%endcomment%}
+                                        <img src="{{image.img_txt}}" ><div class="overlay">
                                                 <div class="text">{{image.description_txt}}</div>
                                               </div></div>{%endfor%}</div>
                                               
                                               
                                     </div>
-                                    <div class="col-lg-6">
+                                    <div class="col-lg-6 image-col">
                                             <div >{% for image in item.imageRight_list %}<div class="image">
 
-                                                    {% assign height = image.height_txt | append: "px"%}
+                                                {%comment%}{% assign height = image.height_txt | append: "px"%}{%endcomment%}
 
-                                                    <img src="{{image.img_txt}}" width="393"><div class="overlay" style="height:height">
+                                                    <img src="{{image.img_txt}}"><div class="overlay">
                                                             <div class="text">{{image.description_txt}}</div>
                                                           </div></div>{%endfor%}</div>
                                                           
