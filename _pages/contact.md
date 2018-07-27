@@ -11,7 +11,7 @@ media_list:
     link_list:
       - link_txt: "www.linkedin.com/in/j64feng"
         title_txt: "LinkedIn"
-      - link_txt: "http://www.github.com/j64feng"
+      - link_txt: "http://www.github.com/jeffreyfeng99"
         title_txt: "Github"
   - title_txt: "Contact Me Via:"
     link_list:
