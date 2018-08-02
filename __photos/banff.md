@@ -8,12 +8,13 @@ date_txt: "Summer 2017"
 subtitle_txt: "Road Trip"
 
 imageLeft_list:
+  - img_txt: "/assets/images/IMG_4927.JPG"
+    description_txt: "Lakeside Pit Stop"
   - img_txt: "/assets/images/20170821_154832.jpg"
     description_txt: "Peyto Lake Panorama"
   - img_txt: "/assets/images/IMG_4988.JPG"
     description_txt: "Peyto Lake"
-  - img_txt: "/assets/images/IMG_4927.JPG"
-    description_txt: "Lakeside Pit Stop"
+
 
 
 

@@ -302,64 +302,79 @@ div.modal-content .btn {
 
 
 #partnersModal {
-div.modal-header {
-    border-bottom: none;
-    padding-bottom: 0 !important;
+    div.modal-header {
+        border-bottom: none;
+        padding-bottom: 0 !important;
 
-    > button.close {
-        padding-top: 0;
-    }
-}
+        .close {
+            opacity: 1;
 
-.modal-body {
-    .carousel-inner {
-        .item-inner {
-            @extend .flex-wrap;
+            .icon-cancel {
+                width: 30px;
+                opacity: 0.8;
+            }
         }
 
-        .partner-modal-body-content {
-            @media (max-width: 767px) {
-                display: flex;
-                flex-wrap: wrap;
+        > button.close {
+            padding-top: 0;
+        }
+    }
 
-                > p {
-                    margin: 10px 0;
-                }
+    .modal-body {
+        .carousel-inner {
+            .item-inner {
+                @extend .flex-wrap;
+            }
 
-                > h3:first-of-type {
-                    order: 3;
-                    margin-top: 15px;
-                }
+            .partner-modal-body-content {
+                @media (max-width: 767px) {
+                    display: flex;
+                    flex-wrap: wrap;
 
-                > p:nth-of-type(3),
-                > p:nth-of-type(4) {
-                    display: none;
-                }
+                    > div.modal-partners-logo:first-of-type {
+                        order: 2;
+                        width: 200px;
+                        height: 200px;
+                        margin: 0 auto 20px;
+                    }
 
-                > p:nth-of-type(5),
-                > p:nth-of-type(6) {
-                    order: 3;
-                }
+                    > p {
+                        margin: 10px 0;
+                    }
 
-                > div.modal-partners-logo:nth-of-type(2) {
-                    order: 4;
-                    width: 200px;
-                    height: 200px;
-                }
+                    > h3:first-of-type {
+                        order: 3;
+                        margin-top: 15px;
+                    }
 
-                > p {
-                    width: 100%;
+                    > p:nth-of-type(3),
+                    > p:nth-of-type(4) {
+                        display: none;
+                    }
+
+                    > p:nth-of-type(5),
+                    > p:nth-of-type(6) {
+                        order: 3;
+                    }
+
+                    > div.modal-partners-logo:nth-of-type(2) {
+                        order: 4;
+                        width: 200px;
+                        height: 200px;
+                    }
+
+                    > p {
+                        width: 100%;
+                    }
                 }
             }
         }
     }
-}
 
-div.modal-footer {
-    @extend .flex-center-container;
-    background-color: white;
-    float: left;
-}
+    div.modal-footer {
+        @extend .flex-center-container;
+        background-color: white;
+    }
 }
 
 
