@@ -409,9 +409,13 @@ div.modal-content .btn {
 //     -ms-transform: translate(-50%, -50%);
 // }
 
-.image-col {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
+.image-col-left {
+    padding-right: 2px !important;
+}
+
+.image-col-right {
+    padding-left: 2px !important;
+
 }
 
 .image {

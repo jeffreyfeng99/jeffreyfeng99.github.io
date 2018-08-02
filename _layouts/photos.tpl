@@ -60,7 +60,7 @@ layout: default
                                     <div class="row">
                                     
                                     
-                                    <div class="col-lg-6 image-col">
+                                    <div class="col-lg-6 image-col-left">
                                             
                                                 <div >{% for image in item.imageLeft_list %}<div class="image">
                                                     {%comment%}{% assign height = image.height_txt | append: "px"%}{%endcomment%}
@@ -70,7 +70,7 @@ layout: default
                                               
                                               
                                     </div>
-                                    <div class="col-lg-6 image-col">
+                                    <div class="col-lg-6 image-col-right">
                                             <div >{% for image in item.imageRight_list %}<div class="image">
 
                                                 {%comment%}{% assign height = image.height_txt | append: "px"%}{%endcomment%}
