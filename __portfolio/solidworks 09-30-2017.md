@@ -3,7 +3,7 @@ title: Sample text
 published: true
 
 # date: 05-10-2018
-date_txt: "July 2017"
+date_txt: "September 2017"
 subtitle_txt: "First Project"
 tag_txt: "solidworks"
 imageLeft_list:

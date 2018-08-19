@@ -19,13 +19,13 @@ media_list:
         title_txt: "j64feng@edu.uwaterloo.ca"
 
 description_txt: >-
-  As an emerging undergraduate student and biomedical engineer, Jeffrey finds himself discovering many different interests in various fields. His current interest revolves around imaging, as he studies ahead on Pattern Recognition and Imaging Analysis in hopes of attaining a future co-op position in a related role.
+  As an emerging undergraduate student and biomedical engineer, I find myself discovering interest in many different fields. One of my current interests involves medical imaging, as I study ahead on Pattern Recognition and Imaging Analysis in hopes of attaining a relevant future co-op position.
   
 
-  Meanwhile, he maintains interest in Artificial Intelligence and space exploration. In his freetime, he can be seen playing around on Leetcode, cooking traditional Chinese meals, practicing guitar in leue of his saxophone that he was unable to transport over, attempting to improve his SolidWorks skils, exploring both website and game development, and creating plans for his future smart home. 
+  Meanwhile, I maintain interest in machine learning and space exploration. In my freetime, I can be found experimenting on Leetcode, exploring endless tutorials from deep learning to React, practicing guitar, attempting to improve my SolidWorks skills, exploring both website and game development.
   
 
-  His favourite sport is soccer, and does his best to play it, or at least exercise on a regular basis. After all for someone who is heading towards the path of improving healthcare, it would be rather hypocritical to dismiss the requirements of his own health.
+  My favourite sport is soccer, and I try my best to play it as much as I can (or at least exercise on a regular basis). After all for someone who is pursing a path deeply entwined in healthcare, it would be rather hypocritical to dismiss the requirements of my own health.
 
 ---
 

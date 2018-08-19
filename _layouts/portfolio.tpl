@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-            
-<main class="fade-out">
-<div id="tabNavHref" class="data-tab">
+
+<main class="fade-out temp-main">
+<div id="tabNavHref" class="data-tab temp-class">
     <div class = "container">
         <ul class="nav nav-tabs">
             {% for item in page.content_list %}
@@ -18,19 +18,14 @@ layout: default
 </div>
 
 
-<div class="tab-content portfolio">
+<div class="tab-content portfolio temp-class">
 {% assign counter = 0%}
-    <!-- {% assign tags = site._modules | where: 'slug', 'tags' | first %} -->
     {% assign collectionItems = site._portfolio  %}
     
     {% for item in page.content_list %}
 
     {% assign id = item.id_txt %}
    
-
-
-
-    <!-- {% assign collection = 'site.' | append: id %} -->
     <div class="tab-pane fade show {% if counter == 0%}active{%endif%}" id="{{item.id_txt}}" >
         <div class="photos-page">
 
@@ -50,7 +45,6 @@ layout: default
                             <div class="col-lg-4 col-sm-6 col-xs-12 card-container mobile-full-card-container">
                                 <div class="card-box partners-card-box mobile-full-card">
                                     <div class="card-box-content text-center">
-                                        <!-- lineheight,weight, size -->
                                         <div class="title-height">{{file.date_txt}}</div> 
                                         <div class="description-height">
                                             {{file.subtitle_txt}}
@@ -125,7 +119,13 @@ layout: default
     </div>
 {%assign counter = counter| plus: 1%}
     {% endfor %}
-    
+
+
+
+
+
+
+
     
 
 
@@ -354,6 +354,7 @@ layout: default
 
        
 </div>
+<div class="content-temp"><em>This section is currently under development. <br> While I have several components that I think are worth sharing, <br>it is my intention to create a more diverse and thorough portfolio <br> before releasing it to the public.</em></div>
 </main>
 <script src="../assets/js/common.js"></script>
 

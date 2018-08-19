@@ -3,8 +3,8 @@ title: Sample text
 published: true
 
 # date: 06-01-2018
-date_txt: "July 2017"
-subtitle_txt: "Solidworks Project"
+date_txt: "October 2017"
+subtitle_txt: "Solidworks Assignment"
 tag_txt: "solidworks"
 
 imageLeft_list:

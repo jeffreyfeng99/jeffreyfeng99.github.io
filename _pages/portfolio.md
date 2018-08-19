@@ -22,7 +22,7 @@ content_list:
     subtitle_txt: "Anything related to R&D goes here"
     id_txt: "labs"
     modalId_txt: "thirdModal"
-  - tabTitle_txt: "Other"
+  - tabTitle_txt: "Machine Learning"
     title_txt: "Other"
     subtitle_txt: "Miscellaneous Items"
     id_txt: "other"
