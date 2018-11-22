@@ -9,7 +9,7 @@ published: true
 media_list:
   - title_txt: "Find Me On:"
     link_list:
-      - link_txt: "www.linkedin.com/in/j64feng"
+      - link_txt: "http://www.linkedin.com/in/j64feng"
         title_txt: "LinkedIn"
       - link_txt: "http://www.github.com/jeffreyfeng99"
         title_txt: "Github"
