@@ -77,10 +77,25 @@ $(document).ready(function() {
              window.scrollTo(0, 0);
          });
      }
-
+    
 });
 
 $(window).on('load', function() {
     $('header').removeClass('fade-out');
     $('main').removeClass('fade-out');
 });
+
+
+$(window).on('load', function() {
+     $('.grid').masonry({
+        // options
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-item'
+      });
+
+      $grid.imagesLoaded().progress( function() {
+        $grid.masonry();
+      });  
+
+});
+

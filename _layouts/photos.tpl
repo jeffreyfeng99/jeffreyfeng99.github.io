@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign imageCollection = site._photos | sort: 'order' | reverse %}
+{% assign imageCollection = site._photos | sort: 'order' %}
 
 <main class="fade-out">
 <div class="photos-page">
@@ -15,21 +15,21 @@ layout: default
                     <p>{{page.subtitle_txt}}</p>
                 </div>
             </div>
-
             <div class="row card-grid">
                 {% assign count = 0 %}
                 {% for item in imageCollection %}
                     <div class="col-lg-4 col-sm-6 col-xs-12 card-container mobile-full-card-container">
-                        {% assign image = item.imageLeft_list[0].img_txt %}
+                        {% assign image = item.image_list[0].img_txt %}
                         <div class="card-box partners-card-box mobile-full-card" style="background-image: url({{image}})">
                             <div class="card-box-content text-center">
-                              <!-- lineheight,weight, size -->
-                              <div class="title-height">{{item.date_txt}}</div> 
-                                <div class="description-height">
+                                <!-- lineheight,weight, size -->
+                                <div class="title-height" style="color:{{item.dateColour_txt}}">{{item.date_txt}}</div> 
+                                <div class="description-height" style="color:{{item.subtitleColour_txt}}">
                                     {{item.subtitle_txt}}
                                 </div>
                                 <div class="button-height">
-                                <button type="button" data-target="#partnersModal" data-toggle="modal" data-slide-to={{count}} class="btn btn-primary arrow-right-white partners-read-more">Photos</button>
+                                <!-- <button type="button" data-target="#partnersModal" data-toggle="modal" data-slide-to={{count}} class="btn btn-primary arrow-right-white partners-read-more">Photos</button> -->
+                                <a class="btn btn-primary arrow-right-white partners-read-more photos-button" href="{{item.permalink}}">Photos</a>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ layout: default
             </div>
         </div>
     </div>
-    <div class="modal fade carousel slide" id="partnersModal">
+    <!-- <div class="modal fade carousel slide" id="partnersModal">
         <div class="modal-dialog modal-lg" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -103,7 +103,7 @@ layout: default
                 </div>
             </div>
         </div>
-    </div> 
+    </div>  -->
 </div>
 </main>
 <script src="../assets/js/common.js"></script>
