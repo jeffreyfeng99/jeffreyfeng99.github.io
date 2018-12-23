@@ -37,8 +37,8 @@ image_list:
     description_txt: "Caltech - Admin Hall"
   - img_txt: "/assets/images/IMG_3041.jpg"
     description_txt: "Caltech"
-  - img_txt: "/assets/images/IMG_3023.gif"
-    description_txt: "San Diego Zoo"
+  # - img_txt: "/assets/images/IMG_3023.gif"
+  #   description_txt: "San Diego Zoo"
 
 
 
