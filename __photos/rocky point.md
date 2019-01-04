@@ -7,8 +7,6 @@ permalink: "/rocky_point/"
 # date: 05-10-2018
 date_txt: "Summer 2017"
 subtitle_txt: "Rocky Point Inlet"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/DSC_0589.JPG"

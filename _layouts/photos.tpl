@@ -23,8 +23,8 @@ layout: default
                         <div class="card-box partners-card-box mobile-full-card" style="background-image: url({{image}})">
                             <div class="card-box-content text-center">
                                 <!-- lineheight,weight, size -->
-                                <div class="title-height" style="color:{{item.dateColour_txt}}">{{item.date_txt}}</div> 
-                                <div class="description-height" style="color:{{item.subtitleColour_txt}}">
+                                <div class="title-height" style="color:white">{{item.date_txt}}</div> 
+                                <div class="description-height" style="color:white">
                                     {{item.subtitle_txt}}
                                 </div>
                                 <div class="button-height">

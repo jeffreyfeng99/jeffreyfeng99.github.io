@@ -7,14 +7,10 @@ permalink: "/vancouver_downtown/"
 # date: 05-10-2018
 date_txt: "Summer 2016"
 subtitle_txt: "Downtown Vancouver"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/DSC_0753.JPG"
     description_txt: "Vancouver Waterfront"
-  - img_txt: "/assets/images/DSC_0832.JPG"
-    description_txt: "Charlie"
   - img_txt: "/assets/images/DSC_0838.JPG"
     description_txt: "Inukshuk by Science World"
   - img_txt: "/assets/images/DSC_0374.JPG"

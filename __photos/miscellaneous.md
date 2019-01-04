@@ -7,8 +7,6 @@ permalink: "/miscellaneous/"
 # date: 05-10-2018
 date_txt: "Over Several Years"
 subtitle_txt: "Miscellaneous"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/1_101016220111231.jpg"

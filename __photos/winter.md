@@ -1,14 +1,12 @@
 ---
 title: Winter  
 published: true
-order: 1
+order: 5
 layout: photos_page
 permalink: "/winter/"
 # date: 05-10-2018
 date_txt: "Winters 2014-2017"
-subtitle_txt: "All Inclusive Pictures of Winter Snow"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
+subtitle_txt: "All Pictures of Winter"
 
 image_list:
   - img_txt: "/assets/images/IMG_3573.JPG"

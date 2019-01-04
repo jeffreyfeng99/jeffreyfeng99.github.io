@@ -1,24 +1,22 @@
 ---
 title: Camping  
 published: true
-order: 5
+order: 1
 layout: photos_page
 permalink: "/camping/"
 # date: 05-10-2018
 date_txt: "Summer 2017"
 subtitle_txt: "Camping at Manning Park"
-dateColour_txt: "black"
-subtitleColour_txt: "white"
 
 image_list:
+  - img_txt: "/assets/images/IMG_5475.JPG"
+    description_txt: "Lightning Lake"
   - img_txt: "/assets/images/1_1010120.JPG"
     description_txt: "Mountain View Along the Three Falls Hike"
   - img_txt: "/assets/images/1_1010029.JPG"
     description_txt: "Pond along Three Falls"
   - img_txt: "/assets/images/1_1010026.JPG"
     description_txt: "Pond along Three Falls"
-  - img_txt: "/assets/images/IMG_5475.JPG"
-    description_txt: "Lightning Lake"
   - img_txt: "/assets/images/P1010111.JPG"
     description_txt: "Lake Hopping Hike"
   - img_txt: "/assets/images/P1010114.JPG"

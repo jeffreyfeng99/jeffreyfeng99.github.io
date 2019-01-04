@@ -7,8 +7,6 @@ permalink: "/waterloo/"
 # date: 05-10-2018
 date_txt: "Winter 2018"
 subtitle_txt: "Waterloo"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/IMG_5280.JPG"

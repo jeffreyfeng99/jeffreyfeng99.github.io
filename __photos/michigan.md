@@ -7,16 +7,14 @@ permalink: "/michigan/"
 # date: 05-05-2018
 date_txt: "Summer 2015"
 subtitle_txt: "University of Michigan Program"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
+  - img_txt: "/assets/images/IMG_4770.JPG"
+    description_txt: "View of Main Hall"
   - img_txt: "/assets/images/IMG_4764.JPG"
     description_txt: "View from Residence"
   - img_txt: "/assets/images/IMG_4766.JPG"
     description_txt: "View from Main Hall"
-  - img_txt: "/assets/images/IMG_4770.JPG"
-    description_txt: "View of Main Hall"
   - img_txt: "/assets/images/IMG_4772.JPG"
     description_txt: "View of Main Hall From Overpass"
   - img_txt: "/assets/images/IMG_4774.JPG"

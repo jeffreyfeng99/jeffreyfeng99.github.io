@@ -7,8 +7,6 @@ permalink: "/kamloops/"
 # date: 06-01-2018
 date_txt: "Summer 2017"
 subtitle_txt: "Kamloops"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/IMG_3814.JPG"

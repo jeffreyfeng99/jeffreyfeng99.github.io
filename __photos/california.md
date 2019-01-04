@@ -7,8 +7,6 @@ permalink: "/california/"
 # date: 05-10-2018
 date_txt: "Summer 2016"
 subtitle_txt: "Trip to California"
-dateColour_txt: "white"
-subtitleColour_txt: "white"
 
 image_list:
   - img_txt: "/assets/images/IMG_3022.JPG"
