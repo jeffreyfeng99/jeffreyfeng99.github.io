@@ -320,7 +320,7 @@ layout: default
             </div>  
         </div>
     </div>  -->    
-<div class="content-temp"><em>This section is currently under development. <br> While I have several components that I think are worth sharing, <br>it is my intention to create a more diverse and thorough portfolio <br> before releasing it to the public.</em></div>
+<div class="content-temp"><em>This page is currently being updated.</em></div>
 </main>
 <script src="../assets/js/common.js"></script>
        
