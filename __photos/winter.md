@@ -11,7 +11,7 @@ subtitle_txt: "All Pictures of Winter"
 image_list:
   - img_txt: "/assets/images/winter/IMG_3573.JPG"
     description_txt: "Mount Seymour"
-  - img_txt: "/assets/images/winter/20171230_142222.jpg"
+  - img_txt: "/assets/images/winter/20171230_142222.JPG"
     description_txt: "Mount Seymour"
   # - img_txt: "/assets/images/winter/IMG_3353.gif"
   #   description_txt: "Pinetree Secondary - First Snow of the Season"

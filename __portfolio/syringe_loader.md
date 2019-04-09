@@ -9,7 +9,7 @@ tag_txt: "technical"
 order: 10
 
 image_list:
-  - img_txt: "../assets/images/portfolio/robot/Full_Robot_1.JPG"
+  - img_txt: "../assets/images/portfolio/robot/Full_Robot_1.jpg"
     description_txt: "Assembly in SolidWorks"
 
 paragraph_txt: "The majority of the issues related to chemotherapy intravenous (IV) fluid administration are a result of fundamental human errors during the preparation of chemotherapy fluids before delivery. In particular, several core issues include utilizing incorrect dosages for drugs mixing improperly during the reconstitution process, and the general high workload of nurses. Evidently, high workloads and fatigue can contribute to the increase of errors such as incorrect dosages and mixing methods. Loading syringes is a component of the preparation process that is vulnerable to each of the errors, and can be the subject of wrong dosages, improper vial mixing, and higher workloads of nurses. </br></br> A solution is a automated syringe loader that can perform the tasks at a faster rate with higher accuracy and precision."

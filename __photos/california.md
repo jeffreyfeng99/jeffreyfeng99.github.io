@@ -27,7 +27,7 @@ image_list:
     description_txt: "Laguna Beach"
   - img_txt: "/assets/images/california/IMG_3026.JPG"
     description_txt: "San Diego Zoo"
-  - img_txt: "/assets/images/california/IMG_3042.JPG"
+  - img_txt: "/assets/images/california/IMG_3042.jpg"
     description_txt: "Caltech"
   - img_txt: "/assets/images/california/IMG_3043.JPG"
     description_txt: "Caltech - Admin Hall"
