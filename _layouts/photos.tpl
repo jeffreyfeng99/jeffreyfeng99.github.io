@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- Commented is an alternative modal design -->
+
 {% assign imageCollection = site._photos | sort: 'order' %}
 
 <main class="fade-out">

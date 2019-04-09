@@ -17,7 +17,7 @@ layout: default
                     <span class="helper"></span> <img src="../assets/images/blue-bar.svg" />
                 </div>
                 <div class="col-lg-10 col-sm-8 col-xs-12 section-title">
-                    <p><strong>{{item.title_txt}}</strong></p>
+                    <p>{{item.title_txt}}</p>
                 </div>
             </div>
             <div class="row notes">
@@ -44,7 +44,7 @@ layout: default
                       <span class="helper"></span> <img src="../assets/images/blue-bar.svg" />
                 </div>
                 <div class="col-lg-10 col-sm-8 col-xs-12 section-title">
-                    <p><strong>{{item.title_txt}}</strong></p>
+                    <p>{{item.title_txt}}</p>
                 </div>
             </div>
             {% assign count = count| plus:1%}
@@ -82,7 +82,7 @@ layout: default
                         <span class="helper"></span> <img src="../assets/images/blue-bar.svg" />
                 </div>
                 <div class="col-lg-10 col-sm-8 col-xs-12 section-title">
-                    <p><strong>{{item.title_txt}}</strong></p></div>
+                    <p>{{item.title_txt}}</p></div>
             </div>
             {% assign count = count| plus:1%}
             {% elsif count == 1%}
@@ -119,7 +119,7 @@ layout: default
                         <span class="helper"></span> <img src="../assets/images/blue-bar.svg" />
                 </div>
                 <div class="col-lg-10 col-sm-8 col-xs-12 section-title">
-                    <p><strong>{{item.title_txt}}</strong></p></div>
+                    <p>{{item.title_txt}}</p></div>
             </div>
             {% assign count = count| plus:1%}
             {% elsif count == 1%}

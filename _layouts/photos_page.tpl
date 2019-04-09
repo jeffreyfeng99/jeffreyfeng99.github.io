@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+<!-- Commented is an alternative static version (no masonry)
+This requires setting imageLeft_list, imageCenter_list, and imageRight_list in content
+ -->
+
+<!-- TODO: add paragraph_txt and subSubtitle_txt -->
+
 <main class="fade-out">
 <div class="photos-page">
     <div class="section">
@@ -8,12 +15,14 @@ layout: default
             <div class="row">
                 <div class="col-lg-12 photo-header" style="padding-bottom:30px">
                     <h3 class="grid-item-title">{{page.title}} - {{page.date_txt}}</h3>
-                    <!-- <p>{{page.subtitle_txt}}</p> -->
+                    {% if page.subSubtitle_txt %}
+                    <h4 style="padding-left: 15px">{{page.subSubtitle_txt}}</h4>
+                    {% endif %}
                 </div>
             </div>
             {% assign count = 0 %}
             {% if page.paragraph_txt %}
-            <p>{{page.paragraph_txt}}</p>
+            <p style="padding-left: 15px; padding-bottom: 15px">{{page.paragraph_txt}}</p>
             {% endif %}
             <!-- <div class="row" style="padding-left: 15px;padding-right:15px">
                 <div class="col-lg-4 col-sm-6 image-col-left-page">
@@ -96,7 +105,7 @@ layout: default
                     {% assign nextCount = count | plus: 1%}
                     {% assign nextLink = imageCollection[nextCount].permalink %}
                         <div class="page-navigation-controls flex-no-wrap">
-                            <a class="btn left photos-left not-active" href="" data-slide="prev">Previous</a>
+                            <a class="btn left photos-left not-active" href="" data-slide="prev">Prev</a>
                             <a class="btn back-to-list photos-back" href="/photos/"></a>
                             <a class="btn right photos-right" href="{{nextLink}}" data-slide="next">Next</a>
                         </div>
@@ -104,7 +113,7 @@ layout: default
                     {% assign prevCount = count | minus: 1 %}
                     {% assign prevLink = imageCollection[prevCount].permalink %}
                         <div class="page-navigation-controls flex-no-wrap">
-                            <a class="btn left photos-left" href="{{prevLink}}" data-slide="prev">Previous</a>
+                            <a class="btn left photos-left" href="{{prevLink}}" data-slide="prev">Prev</a>
                             <a class="btn back-to-list photos-back" href="/photos/"></a>
                             <a class="btn right photos-right not-active" href="" data-slide="next">Next</a>
                         </div>
@@ -114,7 +123,7 @@ layout: default
                     {% assign nextLink = imageCollection[nextCount].permalink %}
                     {% assign prevLink = imageCollection[prevCount].permalink %}
                         <div class="page-navigation-controls flex-no-wrap">
-                            <a class="btn left photos-left" href="{{prevLink}}">Previous</a>
+                            <a class="btn left photos-left" href="{{prevLink}}">Prev</a>
                             <a class="btn back-to-list photos-back" href="/photos/"></a>
                             <a class="btn right photos-right" href="{{nextLink}}" >Next</a>
                         </div>
