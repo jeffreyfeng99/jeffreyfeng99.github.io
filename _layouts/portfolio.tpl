@@ -38,13 +38,14 @@ layout: default
                         {% assign fileId = file.tag_txt %}
                         {% if fileId == id %}
                             <div class="col-lg-4 col-sm-6 col-xs-12 card-container mobile-full-card-container">
-                                <div class="card-box partners-card-box mobile-full-card">
+                                {% assign image = file.image_list[0].img_txt %}
+                                <div class="card-box partners-card-box mobile-full-card" style="background-image: url({{image}});">
                                     <div class="card-box-content text-center">
                                         <!-- <div class="title-height">{{file.date_txt}}</div> 
                                         <div class="description-height">
                                             {{file.subtitle_txt}}
                                         </div> -->
-                                        <div class="title-height">
+                                        <div class="title-height" style="color:{%if file.title == 'BME121' %}white{%else%}black{%endif%}">
                                             {{file.subtitle_txt}}
                                         </div>
                                         <div class="button-height">

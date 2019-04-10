@@ -9,16 +9,14 @@ tag_txt: "technical"
 order: 16
 
 image_list:
-  - img_txt: "../assets/images/portfolio/puzzle_game/bme121_1.png"
+  - img_txt: "../assets/images/portfolio/puzzle_game/bme121_2.png"
 
 paragraph_txt: "One of my first ever programs is the 15 puzzle written in C#. The below images demonstrate the options and functions involved in the game."
 ---
 
 <div class="row">
     <div class="col-lg-12">
-    <p>This is the starting prompt. Pressing any key starts the game.</p> 
-        <div class="image"><img src="../assets/images/portfolio/puzzle_game/bme121_2.png" style="width:100%"></div>
-        <p>This is the starting board. It always starts on a sorted screen.</p> 
+    <p>This is the starting board. It always starts on a sorted screen.</p> 
         <div class="image"><img src="../assets/images/portfolio/puzzle_game/bme121_3.png" style="width:100%" style="padding:1px;" /></div>
         <p>After pressing 's' the board shuffles to a random orientation. A user can shuffle any numbe of times.</p> 
         <div class="image"><img src="../assets/images/portfolio/puzzle_game/bme121_4.png" style="width:100%" style="padding:1px;" /></div>

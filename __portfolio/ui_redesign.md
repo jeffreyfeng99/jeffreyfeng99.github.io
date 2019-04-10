@@ -9,7 +9,7 @@ tag_txt: "technical"
 order: 13
 
 image_list:
-  - img_txt: "../assets/images/portfolio/ui_redesign/Home Page.PNG"
+  - img_txt: "../assets/images/portfolio/ui_redesign/Home_Page.PNG"
     description_txt: "Home Page"
   - img_txt: "../assets/images/portfolio/ui_redesign/Infusion Pump Page.PNG"
     description_txt: "Infusion Pump Page"

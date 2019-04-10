@@ -9,13 +9,14 @@ tag_txt: "technical"
 order: 12
 
 image_list:
-  - img_txt: "../assets/images/portfolio/solidworks/plane1.JPG"
-    description_txt: "Outline of structure"
-  - img_txt: "../assets/images/portfolio/solidworks/plane4.JPG"
-    description_txt: "Detailed version"
   - img_txt: "../assets/images/portfolio/solidworks/plane2.JPG"
     description_txt: "Alternative version"
   - img_txt: "../assets/images/portfolio/solidworks/plane3.JPG"
+  - img_txt: "../assets/images/portfolio/solidworks/plane4.JPG"
+    description_txt: "Detailed Version"
+  - img_txt: "../assets/images/portfolio/solidworks/plane1.JPG"
+    description_txt: "Outline of structure"
+
 
 
 
