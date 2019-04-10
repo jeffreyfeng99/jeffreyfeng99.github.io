@@ -9,7 +9,7 @@ tag_txt: "other"
 order: 4
 
 image_list:
-  - img_txt: "../assets/images/portfolio/music/In_MY_Life-1.png"
+  - img_txt: "../assets/images/portfolio/music/In_My_Life-1.png"
 
 ---
 
