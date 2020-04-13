@@ -19,7 +19,7 @@ media_list:
         title_txt: "j64feng@edu.uwaterloo.ca"
 
 description_txt: >-
-  As an emerging undergraduate student and biomedical engineer, I find myself discovering interest in many different fields. One of my current interests involves imaging - especially the applications in the biomedical field.
+  Biomedical engineer in training!
 
 ---
 
