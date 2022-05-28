@@ -16,7 +16,7 @@ media_list:
   - title_txt: "Contact Me Via:"
     link_list:
       - link_txt: "mailto:j64feng@edu.uwaterloo.ca"
-        title_txt: "j64feng@edu.uwaterloo.ca"
+        title_txt: "j64feng@uwaterloo.ca"
 
 description_txt: >-
   Biomedical engineer in training!

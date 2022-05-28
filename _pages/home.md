@@ -8,7 +8,7 @@ published: true
 name_txt: "Jeffrey Feng"
 
 media_list:
-  - link_txt: "mailto:j64feng@edu.uwaterloo.ca"
+  - link_txt: "mailto:j64feng@uwaterloo.ca"
     img_txt: "/assets/images/email.png"
   - link_txt: "https://github.com/jeffreyfeng99"
     img_txt: "/assets/images/Octicons-mark-github.svg"
