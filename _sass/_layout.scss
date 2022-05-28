@@ -741,11 +741,19 @@ div.page-navigation-controls {
     padding-top: 1px;
 }
 
-.experience-title p {
+.experience-title h4{
     padding-bottom: 5px;
     margin-bottom: 1px;
     font-weight: 650;
+    font-size: 1rem;
 }
+
+.experience-title p{
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+    font-size: 1rem;
+}
+
 
 .btn-filter{
     width: 100%;
@@ -761,8 +769,6 @@ div.page-navigation-controls {
     color: black;
     background-color: #fff;
 }
-
-
 
 .resume-button button:hover {
     border-bottom: 2px solid cadetblue;
@@ -783,20 +789,16 @@ div.page-navigation-controls {
     vertical-align: middle;
     margin-top: auto;
     margin-bottom: auto;
-    
-    
 }
 
-.notes {
-    padding-top: 1%;
+.section-header {
+    padding-bottom: 1%;
 }
 
 .bar-item {
         margin-top: auto;
         margin-bottom: auto;
 }
-
-
 
 .social-media {
     padding-top: 40px;

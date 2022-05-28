@@ -77,6 +77,27 @@ $(document).ready(function() {
              window.scrollTo(0, 0);
          });
      }
+
+    //  function linkUnderline () {
+    //     var pathname = window.location.pathname;
+    //     var $button1 = find('#solidworks-button');
+    //     var $button2 = find('#design-button');
+    //     var $button3 = find('#labs-button');
+    //     var $button4 = find('#other-button');
+
+    //     if (pathname == '/portfolio/#solidworks') {
+    //         $($button1).css('border-bottom', '2px solid cadetblue');
+    //     }
+    //     else if (pathname == '/portfolio/#design') {
+    //         $($button2).css('border-bottom', '2px solid cadetblue');
+    //     }
+    //     else if (pathname == '/portfolio/#labs') {
+    //         $($button3).css('border-bottom', '2px solid cadetblue');
+    //     }
+    //     else if (pathname == '/portfolio/#other') {
+    //         $($button4).css('border-bottom', '2px solid cadetblue');
+    //     }
+    //  }
     
 });
 
