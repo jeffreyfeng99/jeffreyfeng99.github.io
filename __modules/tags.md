@@ -10,5 +10,4 @@ tag_list:
   - title_txt: _design
   - title_txt: _labs
   - title_txt: _machineLearning
-
 ---

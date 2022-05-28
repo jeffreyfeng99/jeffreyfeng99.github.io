@@ -6,8 +6,8 @@ permalink: /resume/
 published: true
 
 
-header_txt: "Jeffrey Feng"
-headerLink_txt: "PDF VERSION"
+header_txt: "JEFFREY FENG"
+headerLink_txt: "PDF VERSION (Condensed)"
 headerFile_txt: "/assets/files/Feng, Jeffrey Resume.pdf"
 
 skills_list:

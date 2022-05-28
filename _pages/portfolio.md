@@ -7,26 +7,17 @@ published: true
 
 
 content_list:
-  - tabTitle_txt: "CAD"
-    title_txt: "CAD Projects (mostly Solidworks)"
-    subtitle_txt: "CAD projects over the years"
-    id_txt: "solidworks"
+  - tabTitle_txt: "Technical"
+    title_txt: "Technical Projects"
+    subtitle_txt: "Notable projects including CAD, code, design deliverables, R&D, lab work, machine learning, and others."
+    id_txt: "technical"
     modalId_txt: "firstModal"
-  - tabTitle_txt: "Design"
-    title_txt: "Design Projects"
-    subtitle_txt: "Mixture of various design deliverables"
-    id_txt: "design"
-    modalId_txt: "secondModal"
-  - tabTitle_txt: "Labs"
-    title_txt: "Lab Related Topics"
-    subtitle_txt: "Anything related to R&D goes here"
-    id_txt: "labs"
-    modalId_txt: "thirdModal"
-  - tabTitle_txt: "Machine Learning"
-    title_txt: "Other"
-    subtitle_txt: "Miscellaneous Items"
+  - tabTitle_txt: "Other"
+    title_txt: "Other Projects"
+    subtitle_txt: "Any other project done for fun or experimentation, not necessarily related to any technical field. "
     id_txt: "other"
-    modalId_txt: "fourthModal"
+    modalId_txt: "secondModal"
+
 ---
 
 

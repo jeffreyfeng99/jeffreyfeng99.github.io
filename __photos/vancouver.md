@@ -9,13 +9,13 @@ date_txt: "Summer 2016"
 subtitle_txt: "Downtown Vancouver and Skyline"
 
 image_list:
-  - img_txt: "/assets/images/IMG_3512.JPG"
-    description_txt: "Facing Northeast"
-  - img_txt: "/assets/images/IMG_3515.JPG"
-    description_txt: "Facing North"
-  - img_txt: "/assets/images/IMG_3523.JPG"
+  - img_txt: "/assets/images/vancouver/IMG_3512.JPG"
+    description_txt: "Northeast"
+  - img_txt: "/assets/images/vancouver/IMG_3515.JPG"
+    description_txt: "North"
+  - img_txt: "/assets/images/vancouver/IMG_3523.JPG"
     description_txt: "Towards Rogers Arena (East)"
-  - img_txt: "/assets/images/IMG_3525.JPG"
+  - img_txt: "/assets/images/vancouver/IMG_3525.JPG"
     description_txt: "Towards the Inlet (Southeast)"
 
 
