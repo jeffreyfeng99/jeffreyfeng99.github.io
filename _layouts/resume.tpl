@@ -6,9 +6,10 @@ layout: default
     <div class="container">
 
         <!-- HEADER AND PDF LINK -->
-        <!-- <div class="col-lg-12 resume-header">
-            <h2>{{page.header_txt}}</h2>
-        </div> -->
+        <!-- remove text-center and content-temp and change to h2 -->
+        <div class="col-sm-12 resume-header text-center content-temp">
+            {{page.header_txt | markdownify}}
+        </div>
         <!-- <div class="col-lg-12" style="padding-top: 20px;padding-bottom: 1%; margin-bottom:10px">
                 <a href="{{page.headerFile_txt}}" target="_blank" >{{page.headerLink_txt}}</a>
         </div> -->

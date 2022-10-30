@@ -19,7 +19,7 @@ media_list:
         title_txt: "j64feng@uwaterloo.ca"
 
 description_txt: >-
-  Biomedical engineer in training!
+  Biomedical engineer in training! Note that this website was a super old for-fun project that was last updated in 2018. I will be sure to clean it up and play around with the sections to make it more fun or purposeful the next time I have the time and motivation to work on it.
 
 ---
 
